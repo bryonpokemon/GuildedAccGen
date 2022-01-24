@@ -1,2 +1,2 @@
 # GuildedAccGen
-was bored af
+was bored af and obv code is trash
